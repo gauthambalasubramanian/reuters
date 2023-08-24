@@ -1,0 +1,25 @@
+{
+  "labels":[
+    "trade",
+    "grain",
+    "crude",
+    "veg-oil",
+    "ship",
+    "coffee",
+    "gold",
+    "acq",
+    "money-fx",
+    "earn",
+    "sugar",
+    "gnp",
+    "oilseed",
+    "cpi",
+    "interest",
+    "cocoa",
+    "livestock",
+    "money-supply",
+    "copper"
+  ],
+  "threshold":0.0,
+  "positive_label":null
+}
